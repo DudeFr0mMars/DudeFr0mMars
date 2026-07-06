@@ -37,7 +37,7 @@
 - Developing Solutions for Microsoft Azure
 
 ### 🛠️ Languages and Tools
-
+ 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -65,10 +65,10 @@
 <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI SDK"/>
 <img src="https://img.shields.io/badge/Multi--Agent%20Systems-4682B4?style=for-the-badge" alt="Multi-Agent Systems"/>
 </p>
-
 <div align="center">
-
 [![DudeFr0mMars's GitHub stats](https://github-readme-stats.vercel.app/api?username=DudeFr0mMars&theme=blue-green&show_icons=true&count_private=true)](https://github.com/DudeFr0mMars)
-[![DudeFr0mMars's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DudeFr0mMars&theme=blue-green)](https://github.com/DudeFr0mMars)
+[![DudeFr0mMars's Streak stats](https://streak-stats.demolab.com/?user=DudeFr0mMars&theme=blue-green)](https://github.com/DudeFr0mMars)
+ 
+</div>
 
 </div>
