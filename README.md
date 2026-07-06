@@ -67,7 +67,7 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/DudeFr0mMars"><img src="https://github-readme-stats.vercel.app/api?username=DudeFr0mMars&theme=blue-green&show_icons=true&count_private=true" alt="DudeFr0mMars's GitHub stats" /></a>
-<a href="https://github.com/DudeFr0mMars"><img src="https://streak-stats.demolab.com/?user=DudeFr0mMars&theme=blue-green" alt="DudeFr0mMars's Streak stats" /></a>
+<a href="https://github.com/DudeFr0mMars"><img src="https://github-stats-extended.vercel.app/api?username=DudeFr0mMars&theme=blue-green&show_icons=true&count_private=true" alt="DudeFr0mMars's GitHub stats" /></a>
+<a href="https://github.com/DudeFr0mMars"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=DudeFr0mMars&theme=blue-green" alt="DudeFr0mMars's Streak stats" /></a>
  
 </div>
