@@ -27,7 +27,7 @@
 
 ### ⚡ My Other Works
 
-- [Apricot](https://apricot-website-murex.vercel.app/login?redirect=%2Fdashboard)
+- [Apricot](https://apricot-website-murex.vercel.app/)
 
 ### 🏆 Certifications
 
