@@ -8,7 +8,7 @@
 
 ### Senior AI SDE @ Accenture
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/thecodingspacerd-code-coding-codecodecode-KEYMsj2LcXzfcTP5ii)" width="500" alt="coding gif" />
+<img src="https://raw.githubusercontent.com/DudeFr0mMars/DudeFr0mMars/master/code.gif" width="500" alt="coding gif" />
 
 ### 🌱 I'm currently learning
  
@@ -27,9 +27,7 @@
 
 ### ⚡ My Other Works
 
-[![apricot](https://github-readme-stats.vercel.app/api/pin/?username=DudeFr0mMars&repo=apricot&theme=blue-green)](https://github.com/DudeFr0mMars/apricot)
-
-*(update the `repo=` value above if "apricot" lives under a different account)*
+- [Apricot](https://apricot-website-murex.vercel.app/login?redirect=%2Fdashboard)
 
 ### 🏆 Certifications
 
