@@ -4,8 +4,7 @@
 
 </div>
 
-# Hi 👋, I'm Varun Mathur
-
+# Hi 👋, I'm [Varun Mathur](https://dudefr0mmars.github.io/)
 ### Senior AI SDE @ Accenture
 
 <img src="https://raw.githubusercontent.com/DudeFr0mMars/DudeFr0mMars/master/code.gif" width="500" alt="coding gif" />
